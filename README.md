@@ -17,6 +17,13 @@
 ---
 
 
+## Team Memebers
+- <a href="https://github.com/themanavpaul">Manav Paul</a>
+- <a href="https://github.com/Aysha-Fathima">Ayesha Fathima</a>
+- <a href="https://www.linkedin.com/in/gladys-fernandes-b574861bb">Gladys Fernandes</a>
+
+---
+
 ## Table of Contents
 
 - [Aim](#aim)
