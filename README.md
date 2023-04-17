@@ -1,5 +1,5 @@
 <p align="center">
- <img src="https://github.com/themanavpaul/predict_taxi_fare_/blob/main/Predict%20Taxi%20Fare%20with%20a%20BigQuery%20ML%20Forecasting%20Model.png" alt="The Documentation Compendium" />
+ <img src="https://github.com/themanavpaul/predict_taxi_fare_/blob/main/Predict%20Taxi%20Fare%20with%20a%20BigQuery%20ML%20Forecasting%20Model.png" alt="Predict Taxi Fare" />
 </p>
 
 <h3 align="center">Predict Taxi Fare with a BigQuery ML Forecasting Model</h3>
